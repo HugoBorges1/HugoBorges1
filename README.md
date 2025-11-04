@@ -2,7 +2,7 @@
 
 Me chamo Hugo Borges, tenho 21 anos e estou cursando o útimo ano de ciências da computação
 na Universidade Federal de Jataí (UFJ). Me interesso pelas áreas envolvendo metodologias formais, modelagem
-de software e gestão de projetos.
+de software, gestão de projetos e desenvolvimento de software.
 
 ### 🤖 Linguagens e Tecnologias
 
