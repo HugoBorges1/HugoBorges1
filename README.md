@@ -68,21 +68,16 @@ de software, gestão de projetos e desenvolvimento de software.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HugoBorges1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 📊 Minhas Estatísticas do GitHub
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoborges1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoBorges1&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Minhas Linguagens Mais Usadas">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoBorges1&theme=radical&_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de HugoBorges1">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoBorges1&theme=radical&hide_border=false" alt="Sequência de Contribuições (Streak) de HugoBorges1">
 </p>
 
 </p>
