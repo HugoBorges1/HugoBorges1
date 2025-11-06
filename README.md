@@ -66,8 +66,6 @@ de software, gestão de projetos e desenvolvimento de software.
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
