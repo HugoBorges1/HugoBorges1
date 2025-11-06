@@ -71,12 +71,12 @@ de software, gestão de projetos e desenvolvimento de software.
 <p>
   <img 
     alt="Estatísticas do GitHub" 
-    height="190" 
+    height="220" 
     src="https://github-readme-stats.vercel.app/api?username=HugoBorges1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Tecnologias Mais Usadas" 
-    height="190"
+    height="220"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoborges1&theme=tokyonight&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 </p>
