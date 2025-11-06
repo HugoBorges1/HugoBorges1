@@ -69,11 +69,8 @@ de software, gestão de projetos e desenvolvimento de software.
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoBorges1&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact&card_width=700" alt="Minhas Linguagens Mais Usadas">
-</p>
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoBorges1&theme=radical&_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de HugoBorges1" width="700">
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoBorges1&theme=radical&_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de HugoBorges1" width="430">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoBorges1&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Minhas Linguagens Mais Usadas" width="400">
 </p>
 
 </p>
