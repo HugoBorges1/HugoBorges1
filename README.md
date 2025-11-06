@@ -91,7 +91,7 @@ de software, gestão de projetos e desenvolvimento de software.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoBorges1&theme=radical&hide_border=false" alt="Sequência de Contribuições (Streak)" width=430">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI4eHd6Z3B1MG02d3Z0ZHBzZjR1MWJwdWdsNmUycWdtODJwYXdiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EH3VMY08CY27NKxsnb/giphy.gif" alt="About Me GIF" width="400px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWMzM2FiM3J6emE4NDdkdmtyZ280bzQ2M3Z1bWNnM2VkY2toejFvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1nDCkQCkXwQE7ZSxnf/giphy.gif" alt="About Me GIF" width="400px">
 </p>
 
 </p>
