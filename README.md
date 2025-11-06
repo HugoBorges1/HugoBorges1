@@ -62,6 +62,22 @@ de software, gestão de projetos e desenvolvimento de software.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="c" 
+    title="c"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -71,6 +87,11 @@ de software, gestão de projetos e desenvolvimento de software.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HugoBorges1&theme=radical&_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de HugoBorges1" width="430">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoBorges1&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Minhas Linguagens Mais Usadas" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoBorges1&theme=radical&hide_border=false" alt="Sequência de Contribuições (Streak)" width=430">
+  <img src="https://i.gifer.com/3P0Sg.gif" alt="About Me GIF" width="400px">
 </p>
 
 </p>
