@@ -82,15 +82,8 @@ de software, gestão de projetos e desenvolvimento de software.
 <br/>
 <br/>
 
-### 📊 Minhas Estatísticas do GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoBorges1&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact&card_width=800" alt="Minhas Linguagens Mais Usadas">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoBorges1&theme=radical&_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de HugoBorges1" width="400">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWMzM2FiM3J6emE4NDdkdmtyZ280bzQ2M3Z1bWNnM2VkY2toejFvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1nDCkQCkXwQE7ZSxnf/giphy.gif" alt="About Me GIF" width="400px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWMzM2FiM3J6emE4NDdkdmtyZ280bzQ2M3Z1bWNnM2VkY2toejFvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1nDCkQCkXwQE7ZSxnf/giphy.gif" alt="About Me GIF" width="600px">
 </p>
 
 </p>
