@@ -1,8 +1,7 @@
 # Hugo Borges
 
-Me chamo Hugo Borges, tenho 21 anos e estou cursando o útimo ano de ciências da computação
-na Universidade Federal de Jataí (UFJ). Me interesso pelas áreas envolvendo metodologias formais, modelagem
-de software, gestão de projetos e desenvolvimento de software.
+Tenho 22 anos sou formado em ciência da computação pela Universidade Federal de Jataí (UFJ), atualmente atuo como analista de dados na empresa Pgfarma. 
+Me interesso pelas áreas envolvendo análise de dados, IaC, metodologias formais, modelagem de software, gestão de projetos e desenvolvimento de software.
 
 ### 🤖 Linguagens e Tecnologias
 
