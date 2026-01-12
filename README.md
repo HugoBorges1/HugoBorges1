@@ -83,7 +83,7 @@ Me interesso pelas áreas envolvendo análise de dados, IaC, metodologias formai
     title="sql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
 />
 
 <br/>
