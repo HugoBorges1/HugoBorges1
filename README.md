@@ -1,6 +1,6 @@
 # Hugo Borges
 
-Tenho 22 anos sou formado em ciência da computação pela Universidade Federal de Jataí (UFJ), atualmente atuo como analista de dados na empresa Pgfarma. 
+Tenho 22 anos e sou formado em ciência da computação pela Universidade Federal de Jataí (UFJ), atualmente atuo como analista de dados na empresa Pgfarma. 
 Me interesso pelas áreas envolvendo análise de dados, IaC, metodologias formais, modelagem de software, gestão de projetos e desenvolvimento de software.
 
 ### 🤖 Linguagens e Tecnologias
@@ -73,6 +73,14 @@ Me interesso pelas áreas envolvendo análise de dados, IaC, metodologias formai
     align="left" 
     alt="c" 
     title="c"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="sql" 
+    title="sql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
